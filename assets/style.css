@@ -1,0 +1,194 @@
+
+.attribution { 
+    font-size: 11px;
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.center {
+    padding: 10%;
+}
+
+@media only screen and (min-width : 575px) {
+    .notCurved{
+        color: white;
+      }
+      .superContainer{
+        margin: 50px;
+        padding: 100px 0 100px;
+        box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+        background-color: white;
+      }
+      .curved1 {
+        border-radius: 10px 0px 0px 10px;
+        color: white;
+    }
+    .curved2 {
+        border-radius: 0px 10px 10px 0px;
+        color: white;
+    }
+    .notCurved1{
+        color: white;
+        display: none;
+      }
+      .curved11 {
+        border-radius: 10px 10px 0px 0px;
+        color: white;
+        display: none;
+
+    }
+    .curved21 {
+        border-radius: 0px 0px 10px 10px;
+        color: white;
+        display: none;
+
+    }
+    .is-table-row {
+      display: table;
+    }
+    .is-table-row {
+      float: none;
+      display: table-cell;
+      vertical-align: top;
+    }
+  }
+  .verde {
+    background-color: hsl(184, 100%, 22%);
+}
+.zboob {
+    background-color: hsl(179, 100%, 13%)
+}
+  .icon {
+      padding-bottom: 20px;
+  }
+  .is-table-row .box {
+    position: static;
+  }
+  @media only screen and (max-width : 576px) {
+  .notCurved{
+    color: white;
+    display: none;
+  }
+  .curved1 {
+    border-radius: 10px 0px 0px 10px;
+    color: white;
+    display: none;
+}
+.curved2 {
+    border-radius: 0px 10px 10px 0px;
+    color: white;
+    display: none;
+}
+  .notCurved1{
+    color: white;
+  }
+  .curved11 {
+    border-radius: 10px 10px 0px 0px;
+    color: white;
+}
+.curved21 {
+    border-radius: 0px 0px 10px 10px;
+    color: white;
+}
+.superContainer2{
+    margin: 50px;
+    padding: 10px;
+    padding: 50px 40px 50px;
+    box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+    background-color: white;
+  }
+  }
+  body {
+    background-image: url("https://i.pinimg.com/originals/24/67/e6/2467e6e856f5c54ccc1323b87dde6c05.jpg");
+    background-color: #cccccc00;
+      -webkit-font-smoothing: antialiased;
+      font-family: 'Big Shoulders Display', cursive;
+      }
+  a { transition: all 225ms ease; }
+
+  header {
+      margin-bottom: 25px;
+      text-align: center;
+  }
+  .big-sexy-buttons {
+       margin-bottom: 25px;
+  }
+  header .note {
+      margin: 0;
+      font-style: italic;
+      max-width: 600px;
+      margin: 55px auto 0;
+  }
+  .orange {
+      background-color: hsl(31, 77%, 52%);
+  }
+  .textOrange {
+    color: hsl(31, 77%, 52%);
+  }
+  .textVerde {
+    color: hsl(184, 100%, 22%);
+  }
+  .textZboob {
+    color: hsl(179, 100%, 13%)
+  }
+  .bouton{
+      margin-left: 25px;
+      margin-bottom: 20px;
+      border-radius: 50px;
+  }
+  .box {
+      padding: 25px 7% 0;
+      text-align: left;
+      font-family: 'Big Shoulders Display';
+      position: relative;
+
+  }
+  .box h2 {
+    font-weight: 700;
+    letter-spacing: -0.05em;
+    margin-bottom: 15px;
+    font-size: 30px;
+    letter-spacing: 0.25px;
+  }
+  .box p {
+      padding-top: 30px;
+      font-weight: lighter;
+      margin-bottom: 5px;
+      font-size: 14px;
+      letter-spacing: 0px;
+      font-family: 'Lexend Deca', sans-serif;
+      padding-bottom: 125px;
+      opacity: 0.8;
+  }
+  .box a {
+      display: inline-block;
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      width: 8rem;
+      text-align: center;
+      background-color: white;
+      font-family: 'Lexend Deca';
+      padding: 15px;
+      vertical-align: middle;
+  }
+.box a:hover {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    border: 0.1rem solid;
+}
+.box a:active {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    border: 0.1rem solid;
+}
+.container{
+    text-align: left;
+  
+}
+
+  
